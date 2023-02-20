@@ -46,13 +46,12 @@ export function SettingModal(
           在你开始使用 AI Assistant 之前，我们需要你提供一个 API 密钥。目前，我们只支持
           OpenAI，但很快就会有更多的支持。你可以通过{' '}
           <a href="https://platform.openai.com/account/api-keys" target="_blank">
-            链接
+             点击链接使用 OpenAI 账号 获得 API Key
           </a>{' '}
-          使用 OpenAI账号 获得 API Key。或购买通过{' '}
+          。或通过{' '}
           <a href="https://chatgpt.aifk.pw/" target="_blank">
-            链接
+            点击链接购买OpenAI 账号和API Key
           </a>{' '}
-          购买 API Key。
         </p>
 
         <br />
