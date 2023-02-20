@@ -29,7 +29,7 @@ If you want to experience it directly, you can visit [ai-assistant demo](https:/
 
 ### Deploy with vercel
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fyouking-lib%2Fai-assistant&env=OPENAI_API_KEY&envDescription=OpenAI%20API%20Key)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fyiios%2Fai-assistant&env=OPENAI_API_KEY&envDescription=OpenAI%20API%20Key)
 
 ### Deploy with pm2
 
