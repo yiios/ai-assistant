@@ -48,12 +48,16 @@ export function SettingModal(
           <a href="https://platform.openai.com/account/api-keys" target="_blank">
             链接
           </a>{' '}
-          获得 API Key
+          使用 OpenAI账号 获得 API Key。或购买通过{' '}
+          <a href="https://chatgpt.aifk.pw/" target="_blank">
+            链接
+          </a>{' '}
+          购买 API Key。
         </p>
 
         <br />
 
-        <p>如果您不设置，AI Assistant 会提供免费的服务，但是这可能不太稳定</p>
+        <p>如果您不设置，AI Assistant 会提供免费的服务，但是这可能极度不稳定。</p>
 
         <br />
 
