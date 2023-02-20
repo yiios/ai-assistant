@@ -98,7 +98,7 @@ export function AIChat() {
             {
               icon: 'message',
               onClick: () => {
-                window.open('https://github.com/youking-lib/ai-assistant');
+                window.open('https://yiios.com/post/about/');
               },
             },
           ],
